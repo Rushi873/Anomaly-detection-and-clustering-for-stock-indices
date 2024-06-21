@@ -1,0 +1,6 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific CSV files
+Nifty 50 Historical Data (1).csv
+Nifty 50 Historical Data.csv
