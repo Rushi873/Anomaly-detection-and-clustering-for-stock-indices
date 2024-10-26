@@ -1,0 +1,163 @@
+Keyword,Issue
+rally NIFTY,Fewer than 5 non-zero data points
+sentiment NSE,Fewer than 5 non-zero data points
+rally NSE,Fewer than 5 non-zero data points
+Reddit BSE,Fewer than 5 non-zero data points
+sentiment BSE,No data available
+rally BSE,Fewer than 5 non-zero data points
+Twitter NIFTY IT,Fewer than 5 non-zero data points
+Reddit NIFTY IT,Fewer than 5 non-zero data points
+sentiment NIFTY IT,No data available
+prediction NIFTY IT,Fewer than 5 non-zero data points
+volatility NIFTY IT,Fewer than 5 non-zero data points
+crash NIFTY IT,Fewer than 5 non-zero data points
+rally NIFTY IT,Fewer than 5 non-zero data points
+Twitter tech stocks,No data available
+Reddit tech stocks,Fewer than 5 non-zero data points
+sentiment tech stocks,Fewer than 5 non-zero data points
+prediction tech stocks,Fewer than 5 non-zero data points
+volatility tech stocks,Fewer than 5 non-zero data points
+crash tech stocks,No data available
+rally tech stocks,No data available
+Reddit NIFTY Bank,Fewer than 5 non-zero data points
+sentiment NIFTY Bank,Fewer than 5 non-zero data points
+crash NIFTY Bank,The request failed: Google returned a response with code 429
+rally NIFTY Bank,Fewer than 5 non-zero data points
+Twitter bank stocks,Fewer than 5 non-zero data points
+Reddit bank stocks,Fewer than 5 non-zero data points
+sentiment bank stocks,No data available
+volatility bank stocks,Fewer than 5 non-zero data points
+crash bank stocks,Fewer than 5 non-zero data points
+rally bank stocks,Fewer than 5 non-zero data points
+Twitter banking sector,No data available
+Reddit banking sector,Fewer than 5 non-zero data points
+sentiment banking sector,Fewer than 5 non-zero data points
+prediction banking sector,Fewer than 5 non-zero data points
+volatility banking sector,No data available
+crash banking sector,No data available
+rally banking sector,Fewer than 5 non-zero data points
+Twitter NIFTY Pharma,Fewer than 5 non-zero data points
+Reddit NIFTY Pharma,No data available
+sentiment NIFTY Pharma,Fewer than 5 non-zero data points
+prediction NIFTY Pharma,Fewer than 5 non-zero data points
+volatility NIFTY Pharma,Fewer than 5 non-zero data points
+crash NIFTY Pharma,No data available
+rally NIFTY Pharma,Fewer than 5 non-zero data points
+Twitter pharma stocks,No data available
+Reddit pharma stocks,Fewer than 5 non-zero data points
+sentiment pharma stocks,No data available
+prediction pharma stocks,Fewer than 5 non-zero data points
+volatility pharma stocks,No data available
+crash pharma stocks,No data available
+rally pharma stocks,No data available
+Twitter healthcare sector,Fewer than 5 non-zero data points
+Reddit healthcare sector,No data available
+sentiment healthcare sector,Fewer than 5 non-zero data points
+prediction healthcare sector,No data available
+volatility healthcare sector,No data available
+crash healthcare sector,Fewer than 5 non-zero data points
+rally healthcare sector,Fewer than 5 non-zero data points
+Twitter NIFTY FMCG,No data available
+Reddit NIFTY FMCG,Fewer than 5 non-zero data points
+sentiment NIFTY FMCG,No data available
+prediction NIFTY FMCG,No data available
+volatility NIFTY FMCG,Fewer than 5 non-zero data points
+crash NIFTY FMCG,Fewer than 5 non-zero data points
+rally NIFTY FMCG,No data available
+Twitter consumer goods,Fewer than 5 non-zero data points
+Reddit consumer goods,No data available
+sentiment consumer goods,Fewer than 5 non-zero data points
+prediction consumer goods,No data available
+volatility consumer goods,Fewer than 5 non-zero data points
+crash consumer goods,No data available
+rally consumer goods,Fewer than 5 non-zero data points
+Twitter NIFTY Auto,No data available
+Reddit NIFTY Auto,Fewer than 5 non-zero data points
+sentiment NIFTY Auto,Fewer than 5 non-zero data points
+prediction NIFTY Auto,Fewer than 5 non-zero data points
+volatility NIFTY Auto,Fewer than 5 non-zero data points
+crash NIFTY Auto,Fewer than 5 non-zero data points
+rally NIFTY Auto,No data available
+Twitter auto sector,Fewer than 5 non-zero data points
+Reddit auto sector,Fewer than 5 non-zero data points
+sentiment auto sector,Fewer than 5 non-zero data points
+prediction auto sector,No data available
+volatility auto sector,No data available
+crash auto sector,Fewer than 5 non-zero data points
+rally auto sector,No data available
+Twitter NIFTY Energy,Fewer than 5 non-zero data points
+Reddit NIFTY Energy,No data available
+sentiment NIFTY Energy,No data available
+prediction NIFTY Energy,Fewer than 5 non-zero data points
+volatility NIFTY Energy,The request failed: Google returned a response with code 429
+crash NIFTY Energy,The request failed: Google returned a response with code 429
+rally NIFTY Energy,The request failed: Google returned a response with code 429
+Twitter energy stocks,The request failed: Google returned a response with code 429
+Reddit energy stocks,The request failed: Google returned a response with code 429
+sentiment energy stocks,Fewer than 5 non-zero data points
+prediction energy stocks,Fewer than 5 non-zero data points
+volatility energy stocks,Fewer than 5 non-zero data points
+crash energy stocks,Fewer than 5 non-zero data points
+rally energy stocks,Fewer than 5 non-zero data points
+Twitter renewable energy,No data available
+Reddit renewable energy,The request failed: Google returned a response with code 429
+sentiment renewable energy,Fewer than 5 non-zero data points
+prediction renewable energy,Fewer than 5 non-zero data points
+volatility renewable energy,Fewer than 5 non-zero data points
+crash renewable energy,No data available
+rally renewable energy,Fewer than 5 non-zero data points
+Twitter NIFTY Metal,Fewer than 5 non-zero data points
+Reddit NIFTY Metal,Fewer than 5 non-zero data points
+sentiment NIFTY Metal,No data available
+prediction NIFTY Metal,No data available
+volatility NIFTY Metal,No data available
+crash NIFTY Metal,Fewer than 5 non-zero data points
+rally NIFTY Metal,Fewer than 5 non-zero data points
+Twitter mining stocks,No data available
+Reddit mining stocks,No data available
+sentiment mining stocks,Fewer than 5 non-zero data points
+prediction mining stocks,Fewer than 5 non-zero data points
+volatility mining stocks,No data available
+crash mining stocks,Fewer than 5 non-zero data points
+rally mining stocks,Fewer than 5 non-zero data points
+Twitter NIFTY Financial,Fewer than 5 non-zero data points
+Reddit NIFTY Financial,Fewer than 5 non-zero data points
+sentiment NIFTY Financial,Fewer than 5 non-zero data points
+prediction NIFTY Financial,Fewer than 5 non-zero data points
+volatility NIFTY Financial,Fewer than 5 non-zero data points
+rally NIFTY Financial,Fewer than 5 non-zero data points
+Twitter finance stocks,No data available
+Reddit finance stocks,Fewer than 5 non-zero data points
+sentiment finance stocks,Fewer than 5 non-zero data points
+prediction finance stocks,Fewer than 5 non-zero data points
+volatility finance stocks,Fewer than 5 non-zero data points
+crash finance stocks,Fewer than 5 non-zero data points
+rally finance stocks,Fewer than 5 non-zero data points
+Twitter NIFTY Realty,Fewer than 5 non-zero data points
+Reddit NIFTY Realty,No data available
+sentiment NIFTY Realty,Fewer than 5 non-zero data points
+prediction NIFTY Realty,Fewer than 5 non-zero data points
+volatility NIFTY Realty,Fewer than 5 non-zero data points
+crash NIFTY Realty,No data available
+rally NIFTY Realty,No data available
+Twitter real estate,Fewer than 5 non-zero data points
+Reddit real estate,Fewer than 5 non-zero data points
+sentiment real estate,Fewer than 5 non-zero data points
+prediction real estate,Fewer than 5 non-zero data points
+volatility real estate,Fewer than 5 non-zero data points
+crash real estate,Fewer than 5 non-zero data points
+rally real estate,Fewer than 5 non-zero data points
+Twitter NIFTY Consumer Durables,Fewer than 5 non-zero data points
+Reddit NIFTY Consumer Durables,Fewer than 5 non-zero data points
+sentiment NIFTY Consumer Durables,Fewer than 5 non-zero data points
+prediction NIFTY Consumer Durables,No data available
+volatility NIFTY Consumer Durables,No data available
+crash NIFTY Consumer Durables,Fewer than 5 non-zero data points
+rally NIFTY Consumer Durables,No data available
+Twitter consumer durables,Fewer than 5 non-zero data points
+Reddit consumer durables,Fewer than 5 non-zero data points
+sentiment consumer durables,Fewer than 5 non-zero data points
+prediction consumer durables,No data available
+volatility consumer durables,No data available
+crash consumer durables,No data available
+rally consumer durables,Fewer than 5 non-zero data points
